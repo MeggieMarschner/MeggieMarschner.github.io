@@ -10,12 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   
   more_info: >
-    <div class="social-icons">
-    <a href="mailto:meggie.marschner@gmx.de"><i class="fas fa-envelope"></i></a>
-    <a href="https://www.researchgate.net/profile/Meggie-Marschner"><i class="ai ai-researchgate"></i></a>
-    <a href="https://orcid.org/YOUR-ORCID-ID"><i class="ai ai-orcid"></i></a>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><i class="fab fa-linkedin"></i></a>
-    <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"><i class="ai ai-google-scholar"></i></a>
+    <div class="social-icons" style="font-size: 1.5rem; margin-top: 10px;">
+    <a href="mailto:meggie.marschner@gmx.de" style="margin-right: 8px;"><i class="fas fa-envelope"></i></a>
+    <a href="https://www.researchgate.net/profile/Meggie-Marschner" style="margin-right: 8px;"><i class="ai ai-researchgate"></i></a>
+    <a href="https://orcid.org/YOUR-ORCID-ID" style="margin-right: 8px;"><i class="ai ai-orcid"></i></a>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" style="margin-right: 8px;"><i class="fab fa-linkedin"></i></a>
+    <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" style="margin-right: 8px;"><i class="ai ai-google-scholar"></i></a>
     </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
