@@ -40,4 +40,7 @@ I hold a Master's degree in Mathematics from the Georg-August-University Göttin
 
 <span style="color: #0B5345;">Research Interests:</span> <span style="color: var(--global-theme-color)">monotone operators, bilevel optimization, hierarchical optimization, (stochastic) variational inequalities, game theory.</span>
 
-<div style="margin-bottom: 80px;"></div>
+<br>
+<br>
+<br>
+<br>
