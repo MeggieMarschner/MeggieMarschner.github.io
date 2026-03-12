@@ -10,10 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   
   more_info: >
-    {% include social.html %}
-    #<p>555 your office number</p>
-    #<p>123 your address street</p>
-    #<p>Your City, State 12345</p>
+    <div class="social-icons">
+    <a href="mailto:meggie.marschner@gmx.de"><i class="fas fa-envelope"></i></a>
+    <a href="https://www.researchgate.net/profile/Meggie-Marschner"><i class="ai ai-researchgate"></i></a>
+    <a href="https://orcid.org/YOUR-ORCID-ID"><i class="ai ai-orcid"></i></a>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><i class="fab fa-linkedin"></i></a>
+    <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"><i class="ai ai-google-scholar"></i></a>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
