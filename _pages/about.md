@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   
   more_info: >
-    <div class="social-icons" style="font-size: 1.7rem; margin-top: 10px;color: #0E6655;">
+    <div class="social-icons" style="font-size: 1.7rem; margin-top: 10px;color: #0B5345;">
     <a href="mailto:meggie.marschner@uni-mannheim.de.de" style="margin-right: 8px;"><i class="fas fa-envelope"></i></a>
     <a href="https://www.researchgate.net/profile/Meggie-Marschner" style="margin-right: 8px;"><i class="ai ai-researchgate"></i></a>
     <a href="https://orcid.org/0009-0000-7741-2298" style="margin-right: 8px;"><i class="ai ai-orcid"></i></a>
@@ -38,6 +38,6 @@ I am Meggie and I am a PhD candidate in Mathematical Optimization at the Univers
 
 I hold a Master's degree in Mathematics from the Georg-August-University Göttingen, where I also did my Bachelor degree (2-subject bachelor Mathematics and Economics).
 
-<span style="color: #0E6655;">Research Interests:</span> <span style="color: var(--global-theme-color)">monotone operators, bilevel optimization, hierarchical optimization, (stochastic) variational inequalities, game theory.</span>
+<span style="color: #0B5345;">Research Interests:</span> <span style="color: var(--global-theme-color)">monotone operators, bilevel optimization, hierarchical optimization, (stochastic) variational inequalities, game theory.</span>
 
-<div style="margin-bottom: 40px;"></div>
+<div style="margin-bottom: 80px;"></div>
