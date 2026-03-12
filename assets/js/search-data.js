@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-handshake-we-are-organizing-the-optimization-in-the-länd-workshop-november-2026-at-the-university-of-mannheim",
+            },},{id: "news-handshake-we-are-organizing-the-optimization-in-the-länd-workshop-november-2026-at-the-university-of-mannheim",
           title: ':handshake: We are organizing the Optimization in the Länd Workshop (November 2026) at...',
           description: "",
           section: "News",},{id: "news-speech-balloon-i-gave-a-talk-at-the-convex-optimization-workshop-in-bremen",
