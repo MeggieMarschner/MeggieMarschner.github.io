@@ -6,12 +6,6 @@ cv:
   image: ""
   summary: PhD Candidate in Mathematical Optimization at the University of Mannheim. Research interests include monotone operators, hierarchical optimization, bilevel optimization, stochastic variational inequalities, and game theory.
 
-  social_networks:
-    - network: LinkedIn
-      username: # add your LinkedIn username here
-    - network: GitHub
-      username: MeggieMarschner
-
   sections:
     Education:
       - institution: University of Mannheim
@@ -45,56 +39,6 @@ cv:
         studyType: 2-Subject Bachelor
         start_date: 2015-10-01
         end_date: 2020-08-01
-
-    Experience:
-      - company: University of Mannheim
-        position: Research Assistant
-        location: Mannheim, Germany
-        start_date: 2023-11-01
-        end_date: present
-
-      - company: E.ON
-        position: Master Student
-        location: Germany
-        start_date: 2023-05-01
-        end_date: 2023-10-01
-
-      - company: E.ON
-        position: Working Student
-        location: Hannover, Germany
-        start_date: 2020-08-01
-        end_date: 2022-04-01
-
-    Teaching:
-      - company: University of Mannheim
-        position: Teaching Assistant – Non-Linear Optimization
-        location: Mannheim, Germany
-        start_date: 2024-01-01
-        end_date: present
-
-      - company: University of Mannheim
-        position: Teaching Assistant – Linear Optimization
-        location: Mannheim, Germany
-        start_date: 2024-10-01
-        end_date: present
-
-      - company: University of Mannheim
-        position: Teaching Assistant – Seminar Mathematical Optimization
-        location: Mannheim, Germany
-        start_date: 2025-04-01
-        end_date: 2025-08-01
-
-      - company: University of Mannheim
-        position: Tutor – Linear Algebra
-        location: Mannheim, Germany
-        start_date: 2025-04-01
-        end_date: 2025-08-01
-
-      - company: Georg-August-University Göttingen
-        position: Tutor – Mathematics for Economics
-        location: Göttingen, Germany
-        start_date: 2022-08-01
-        end_date: 2023-03-01
 
     Publications:
       - title: Tikhonov Regularized Exterior Penalty Methods for Hierarchical Variational Inequalities
@@ -130,11 +74,54 @@ cv:
         publisher: Preprint
         releaseDate: 2025-06-01
 
-    Service:
-      - title: Reviewer
-        date: 2025-05-01
-        awarder: Acta Applicandae Mathematicae
-        summary: Peer reviewer for Acta Applicandae Mathematicae
+    Experience:
+      - company: University of Mannheim
+        position: Research Assistant
+        location: Mannheim, Germany
+        start_date: 2023-11-01
+        end_date: present
+
+      - company: University of Mannheim
+        position: Teaching Assistant – Non-Linear Optimization
+        location: Mannheim, Germany
+        start_date: 2024-01-01
+        end_date: present
+
+      - company: University of Mannheim
+        position: Teaching Assistant – Linear Optimization
+        location: Mannheim, Germany
+        start_date: 2024-10-01
+        end_date: present
+
+      - company: University of Mannheim
+        position: Teaching Assistant – Seminar Mathematical Optimization
+        location: Mannheim, Germany
+        start_date: 2025-04-01
+        end_date: 2025-08-01
+
+      - company: University of Mannheim
+        position: Tutor – Linear Algebra
+        location: Mannheim, Germany
+        start_date: 2025-04-01
+        end_date: 2025-08-01
+
+      - company: Georg-August-University Göttingen
+        position: Tutor – Mathematics for Economics
+        location: Göttingen, Germany
+        start_date: 2022-08-01
+        end_date: 2023-03-01
+
+      - company: E.ON
+        position: Master Student
+        location: Germany
+        start_date: 2023-05-01
+        end_date: 2023-10-01
+
+      - company: E.ON
+        position: Working Student
+        location: Hannover, Germany
+        start_date: 2020-08-01
+        end_date: 2022-04-01
 
     Volunteer:
       - company: University of Mannheim
@@ -147,7 +134,13 @@ cv:
         position: Student Council of Representatives, Faculty of Mathematics
         location: Göttingen, Germany
         start_date: 2016-01-01
-        end_date: 2020-01-01    
+        end_date: 2020-01-01
+
+      - company: Acta Applicandae Mathematicae
+        position: Reviewer
+        location: ""
+        start_date: 2025-05-01
+        end_date: present
 
     Languages:
       - name: German
@@ -164,5 +157,5 @@ cv:
 
     Interests:
       - name: Mathematical Optimization
-        icon: fa-solid fa-square-root-variable
-        keywords: "Monotone Operators, Hierarchical Optimization, Bilevel Optimization, Stochastic Variational Inequalities, Game Theory"
+        icon: fa-solid fa-book-open
+        keywords: "Monotone Operators, Hierarchical Optimization, Bilevel Optimization, Stochastic Variational Inequalities, Game Theory, Applications to Machine Learning, Applications to Finance, Applications to Energy Markets"
