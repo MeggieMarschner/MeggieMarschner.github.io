@@ -15,7 +15,7 @@ nav_order: 4
     <div class="col-sm-9">
       <strong>Convex Optimization Workshop</strong><br>
       University of Bremen, Bremen, Germany<br>
-      <em>Talk title</em>
+      <em style="color: #0B5345;">Regularization methods for solving hierarchical variational inequalities with complexity guarantees</em>
     </div>
   </div>
 </div>
@@ -27,7 +27,7 @@ nav_order: 4
     <div class="col-sm-9">
       <strong>CDC – Conference on Decision and Control</strong><br>
       Rio de Janeiro, Brazil<br>
-      <em>Talk title</em>
+      <em style="color: #0B5345;">Regularization methods for solving hierarchical variational inequalities with complexity guarantees</em>
     </div>
   </div>
 </div>
@@ -38,7 +38,7 @@ nav_order: 4
     <div class="col-sm-9">
       <strong>PGMO Days</strong><br>
       EDF Lab Paris-Saclay, France<br>
-      <em>Talk title</em>
+      <em style="color: #0B5345;">Regularization methods for solving hierarchical variational inequalities with complexity guarantees</em>
     </div>
   </div>
 </div>
@@ -49,7 +49,7 @@ nav_order: 4
     <div class="col-sm-9">
       <strong>ENUMATH</strong><br>
       University of Heidelberg, Germany<br>
-      <em>Talk title</em>
+      <em style="color: #0B5345;">Tikhonov regularized exterior penalty methods for hierarchical variational inequalities</em>
     </div>
   </div>
 </div>
@@ -60,7 +60,7 @@ nav_order: 4
     <div class="col-sm-9">
       <strong>EUROPT</strong><br>
       University of Southampton, United Kingdom<br>
-      <em>Talk title</em>
+      <em style="color: #0B5345;">Complexity guarantees for risk-neutral generalized Nash equilibrium problems</em>
     </div>
   </div>
 </div>
@@ -71,7 +71,7 @@ nav_order: 4
     <div class="col-sm-9">
       <strong>Dynamics, Optimization and Control</strong><br>
       University of Groningen, Netherlands<br>
-      <em>Talk title</em>
+      <em style="color: #0B5345;">Complexity guarantees for risk-neutral generalized Nash equilibrium problems</em>
     </div>
   </div>
 </div>
@@ -83,7 +83,7 @@ nav_order: 4
     <div class="col-sm-9">
       <strong>PGMO Days</strong><br>
       EDF Lab Paris-Saclay, France<br>
-      <em>Talk title</em>
+      <em style="color: #0B5345;">Tikhonov regularized exterior penalty methods for hierarchical variational inequalities</em>
     </div>
   </div>
 </div>
