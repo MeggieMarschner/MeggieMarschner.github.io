@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   
   more_info: >
-    <div class="social-icons" style="font-size: 1.7rem; margin-top: 10px;">
+    <div class="social-icons" style="font-size: 1.7rem; margin-top: 10px;color: #0E6655;">
     <a href="mailto:meggie.marschner@uni-mannheim.de.de" style="margin-right: 8px;"><i class="fas fa-envelope"></i></a>
     <a href="https://www.researchgate.net/profile/Meggie-Marschner" style="margin-right: 8px;"><i class="ai ai-researchgate"></i></a>
     <a href="https://orcid.org/0009-0000-7741-2298" style="margin-right: 8px;"><i class="ai ai-orcid"></i></a>
