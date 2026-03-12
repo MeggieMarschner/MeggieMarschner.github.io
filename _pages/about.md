@@ -38,6 +38,6 @@ I am Meggie and I am a PhD candidate in Mathematical Optimization at the Univers
 
 I hold a Master's degree in Mathematics from the Georg-August-University Göttingen, where I also did my Bachelor degree (2-subject bachelor Mathematics and Economics).
 
-<span style="color: var(--global-theme-color)">Research Interests: monotone operators, bilevel optimization, hierarchical optimization, (stochastic) variational inequalities, game theory.</span>
+<span style="color: #0E6655;">Research Interests:</span> <span style="color: var(--global-theme-color)">monotone operators, bilevel optimization, hierarchical optimization, (stochastic) variational inequalities, game theory.</span>
 
-
+<div style="margin-bottom: 40px;"></div>
