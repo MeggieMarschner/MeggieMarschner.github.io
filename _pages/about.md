@@ -32,13 +32,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi!
 
-I am Meggie and I am a PhD candidate in the department of Mathematical Optimization at the University of Mannheim, under the supervision of Prof. Mathias Staudigl. My dissertation is concerned with hierarchical variational inequalities and equilibrium problems.
+I am a PhD candidate in the department of Mathematical Optimization at the University of Mannheim, under the supervision of Prof. Mathias Staudigl. My dissertation is concerned with hierarchical variational inequalities and equilibrium problems.
 
 I hold a Master's degree in Mathematics from the Georg-August-University Göttingen, where I also did my Bachelor degree (2-subject bachelor Mathematics and Economics).
 
-<span style="color: #0E6655;">Research Interests:</span> <span style="color: var(--global-theme-color)">monotone operators, bilevel optimization, hierarchical optimization, (stochastic) variational inequalities, game theory.</span>
+<span style="color: #0B5345;">Research Interests:</span> <span style="color: var(--global-theme-color)">monotone operators, bilevel optimization, hierarchical optimization, (stochastic) variational inequalities, game theory.</span>
 
 <br>
 <br>
