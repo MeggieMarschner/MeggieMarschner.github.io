@@ -398,14 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-handshake-we-are-organizing-the-optimization-in-the-länd-workshop-november-2026-at-the-university-of-mannheim",
-          title: ':handshake: We are organizing the Optimization in the Länd Workshop (November 2026) at...',
-          description: "",
-          section: "News",},{id: "news-speech-balloon-i-gave-a-talk-at-the-convex-optimization-workshop-in-bremen",
+            },},{id: "news-speech-balloon-i-gave-a-talk-at-the-convex-optimization-workshop-in-bremen",
           title: ':speech_balloon: I gave a talk at the Convex Optimization Workshop in Bremen.',
           description: "",
           section: "News",},{id: "news-loudspeaker-i-gave-a-talk-and-co-organised-the-session-on-exploiting-structures-in-monotone-inclusion-problems-and-applications-to-bilevel-optimization-at-the-siam-conference-on-optimization-op26-in-edinburgh",
           title: ':loudspeaker: I gave a talk and co-organised the session on “Exploiting Structures in...',
+          description: "",
+          section: "News",},{id: "news-handshake-we-are-organizing-the-optimization-in-the-länd-workshop-november-2026-at-the-university-of-mannheim",
+          title: ':handshake: We are organizing the Optimization in the Länd Workshop (November 2026) at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
